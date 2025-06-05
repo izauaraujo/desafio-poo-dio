@@ -12,7 +12,7 @@ www.dio.me
 ## Abstraindo um Bootcamp Usando Orientação a Objetos em Java.
 
 
-Foi realizado as seguintes atividades;
+Foram realizadas as seguintes atividades;
 
 
 1. ABSTRAIDO o DOMÍNIO Bootcamp e MODELADO seus ATRIBUTOS E MÉTODOS
